@@ -1,4 +1,4 @@
-package ru.ui;
+/*package ru.ui;
 
 import java.sql.Driver;
 

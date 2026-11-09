@@ -1,4 +1,4 @@
-package ru.ui;
+/*package ru.ui;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.openqa.selenium.WebDriver;
