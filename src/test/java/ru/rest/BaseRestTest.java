@@ -24,8 +24,7 @@ public class BaseRestTest {
                 {
                    "id": 1,
                    "title": "Test",
-                   "body": "Test",
-                   "userId": 1
+                   "body": "Test", /
                 }
                
                 """;
